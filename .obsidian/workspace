@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "7b6ac86147a2efc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc284bb25bd1000d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11ca26a64ce9414b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a1cf02cd703204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c250b6ab93b622",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f84e8416190ff9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "subscription",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "09e0fae472d87aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b484997eb9eea5c",
+        "type": "tabs",
+        "dimension": 60.396039603960396,
+        "children": [
+          {
+            "id": "6d6fc0469d4e7ce2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "93d7b0f6e6394b6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21ee7dfb5ac6f49b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f745a33d1ebeac66",
+        "type": "tabs",
+        "dimension": 39.603960396039604,
+        "children": [
+          {
+            "id": "631d8c9ab966d37f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.3780822753906,
+    "collapsed": true
+  },
+  "active": "bc284bb25bd1000d",
+  "lastOpenFiles": [
+    "Quality24/Issue 123.md",
+    "Quality24/Issue 120.md",
+    "Quality24/inpatient/user database.md",
+    "Quality24/credentials.md",
+    "Quality24/Issue.md",
+    "Quality24/Issue 20.md",
+    "Quality24/Issue 22.md",
+    "Quality24/Issue 69.md",
+    "Quality24/Issue 94.md",
+    "Quality24/Main.md"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "communityThemeSortOrder": "download",
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "showIndentGuide": true,
+  "tabSize": 2
+}

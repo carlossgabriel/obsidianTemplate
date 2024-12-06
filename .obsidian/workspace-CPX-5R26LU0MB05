@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "7b6ac86147a2efc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2274cb7ed9192dc4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Accenture/Oi/Pass.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b25d1b79040fd7f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Accenture/Oi/E-commerce/Sprint - 56.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11ca26a64ce9414b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a1cf02cd703204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c250b6ab93b622",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f84e8416190ff9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#API-",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "09e0fae472d87aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b484997eb9eea5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d6fc0469d4e7ce2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "89c46fb98a0fdc41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a015acc58d992e33",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "98e4d8ac5b155361",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Accenture/Oi/E-commerce/Sprint - 56.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4d7fac0415ee304a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5,
+    "collapsed": true
+  },
+  "active": "b25d1b79040fd7f5",
+  "lastOpenFiles": [
+    "Accenture/Oi/E-commerce/Sprint - 56.md",
+    "Accenture/Oi/Pass.md",
+    "Accenture/Oi/E-commerce/Sprint 56/US180490.md",
+    "Coding/Javascript/TypeScript/Projects/MyWordles/Session.md",
+    "Coding/Javascript/TypeScript/Projects/MyWordles/My wordles - board.md",
+    "Coding/Javascript/TypeScript/Prisma Handler.md",
+    "Coding/Javascript/TypeScript/Projects/MyWordles/My wordles.md",
+    "Coding/Javascript/TypeScript/TypeScript.md",
+    "QUICK 🏃🏻‍♂️.md",
+    "teste.md"
+  ]
+}

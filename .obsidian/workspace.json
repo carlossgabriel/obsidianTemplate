@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "7b6ac86147a2efc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e6042ce52916a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d44247b287c8a29e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailyNotes/2024/12/05.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11ca26a64ce9414b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a1cf02cd703204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c250b6ab93b622",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f84e8416190ff9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "unique index",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "005b980f4d623ef1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "95e627d88a317988",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "566fc5336f17202e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dailyNotes/2022/11/16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 16"
+            }
+          },
+          {
+            "id": "4f8362151339be11",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09f5d02d3e54dab9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5124969482422
+  },
+  "right": {
+    "id": "09e0fae472d87aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d4b101b522ba153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "874e2c36d5e3530c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "8a67d15127d8dec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Quality24/Sprints/Sprint 81.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Sprint 81"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": true,
+      "templates:Insert template": true,
+      "markdown-importer:Open format converter": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "d44247b287c8a29e",
+  "lastOpenFiles": [
+    "dailyNotes/2024/11/29.md",
+    "dailyNotes/2024/12/05.md",
+    "Quality24/Sprints/Sprint 83.md",
+    "dailyNotes/2024/11/27.md",
+    "dailyNotes/2024/11/26.md",
+    "Pasted image 20241204230643.png",
+    "Pasted image 20241204225317.png",
+    "Quality24/inpatient/Auth inpatient.md",
+    "dailyNotes/2024/12/03.md",
+    "dailyNotes/2024/12",
+    "Quality24/inpatient/database/data_protection_agreement_event.md",
+    "dailyNotes/2024/11/01.md",
+    "dailyNotes/2024/08/15.md",
+    "dailyNotes/2024/10/24.md",
+    "Quality24/Sprints/react.md",
+    "Quality24/Sprints/Sprint 82.md",
+    "dailyNotes/2024/11/22.md",
+    "Personal/Akita advice.md",
+    "Personal/ONG/Verificar a possibilidade de trabalhar com Postgraphile.md",
+    "Personal/jobInterviews/RediRedi BackEnd Challenge.canvas",
+    "paymentAPICanvas.canvas",
+    "Pasted image 20241119151555.png",
+    "Pasted image 20241008212757.png",
+    "Pasted image 20240716224537.png",
+    "Pasted image 20240716224439.png",
+    "Pasted image 20240630185514.png",
+    "dailyNotes/2024/11/o.md",
+    "Quality24/Sprints/61.md",
+    "Personal/jobInterviews/RediRedi Etapa 3.md",
+    "Personal/jobInterviews/RediRedi Etapa 2.md",
+    "Personal/jobInterviews/RediRedi.md",
+    "Quality24/Sprints/Sprint 81.md",
+    "Quality24/Sprints/issue 595.md",
+    "Personal/jobInterviews/Entrevista TIVIT.md",
+    "Personal/jobInterviews/redi-redi-backend-challenge.pdf",
+    "Personal/ONG/Backend.md",
+    "Personal/jobInterviews/Aceite a carta proposta.md",
+    "Personal/jobInterviews/backend-challenge.pdf",
+    "Personal/Untitled.canvas",
+    "Personal/CV",
+    "Personal/jobInterviews",
+    "dailyNotes/2024/11",
+    "Coding/backEnd/Untitled.canvas",
+    "Personal/ONG",
+    "Coding/universoDev",
+    "Coding/universoDev",
+    "dailyNotes/2024/10",
+    "Quality24/FHIR Integration.canvas",
+    "payment-api.canvas",
+    "dailyNotes/2024/09/Issue 540.canvas",
+    "Personal/Portfolio.canvas",
+    "images/Pasted image 20240315154819.png",
+    "images/Pasted image 20240123154748.png",
+    "images/Pasted image 20240123152039.png",
+    "Quality24/Business.canvas",
+    "Personal/Christmas Treasure Hunt 2022.canvas"
+  ]
+}

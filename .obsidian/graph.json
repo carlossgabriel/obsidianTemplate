@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Quality24",
+      "color": {
+        "a": 1,
+        "rgb": 3131129
+      }
+    },
+    {
+      "query": "path:dailyNotes",
+      "color": {
+        "a": 1,
+        "rgb": 4350779
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.80852962169879,
+  "lineSizeMultiplier": 1.80852962169879,
+  "collapse-forces": true,
+  "centerStrength": 0.578845725321251,
+  "repelStrength": 11.8843683083512,
+  "linkStrength": 0.502785411869569,
+  "linkDistance": 272,
+  "scale": 0.1955415048525107,
+  "close": true
+}

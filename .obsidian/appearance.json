@@ -1,0 +1,16 @@
+{
+  "baseFontSize": 14,
+  "translucency": false,
+  "cssTheme": "Obsidian gruvbox",
+  "baseFontSizeAction": true,
+  "theme": "system",
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "strikethrough"
+  ],
+  "showViewHeader": true
+}
